@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\course\course\bin\Debug\net8.0\course.exe
+C:\Priscila\Udemy\course\course\bin\Debug\net8.0\course.deps.json
+C:\Priscila\Udemy\course\course\bin\Debug\net8.0\course.runtimeconfig.json
+C:\Priscila\Udemy\course\course\bin\Debug\net8.0\course.dll
+C:\Priscila\Udemy\course\course\bin\Debug\net8.0\course.pdb
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\course.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\course.AssemblyInfo.cs
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\course.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\course.dll
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\refint\course.dll
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\course.pdb
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\course.genruntimeconfig.cache
+C:\Priscila\Udemy\course\course\obj\Debug\net8.0\ref\course.dll

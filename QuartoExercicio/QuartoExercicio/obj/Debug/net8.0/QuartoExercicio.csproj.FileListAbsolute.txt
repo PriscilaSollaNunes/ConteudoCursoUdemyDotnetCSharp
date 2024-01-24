@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\QuartoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\QuartoExercicio.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\QuartoExercicio.AssemblyInfo.cs
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\QuartoExercicio.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\bin\Debug\net8.0\QuartoExercicio.exe
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\bin\Debug\net8.0\QuartoExercicio.deps.json
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\bin\Debug\net8.0\QuartoExercicio.runtimeconfig.json
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\bin\Debug\net8.0\QuartoExercicio.dll
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\bin\Debug\net8.0\QuartoExercicio.pdb
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\QuartoExercicio.dll
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\refint\QuartoExercicio.dll
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\QuartoExercicio.pdb
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\QuartoExercicio.genruntimeconfig.cache
+C:\Priscila\Udemy\QuartoExercicio\QuartoExercicio\obj\Debug\net8.0\ref\QuartoExercicio.dll

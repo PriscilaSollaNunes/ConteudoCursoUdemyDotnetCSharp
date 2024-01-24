@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Priscila\Udemy\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Priscila\Udemy\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Priscila\Udemy\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Priscila\Udemy\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Priscila\Udemy\Calculadora\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll

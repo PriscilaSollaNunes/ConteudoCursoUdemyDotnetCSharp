@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\Salario.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\Salario.AssemblyInfo.cs
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\Salario.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\Salario\Salario\bin\Debug\net8.0\Salario.exe
+C:\Priscila\Udemy\Salario\Salario\bin\Debug\net8.0\Salario.deps.json
+C:\Priscila\Udemy\Salario\Salario\bin\Debug\net8.0\Salario.runtimeconfig.json
+C:\Priscila\Udemy\Salario\Salario\bin\Debug\net8.0\Salario.dll
+C:\Priscila\Udemy\Salario\Salario\bin\Debug\net8.0\Salario.pdb
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\Salario.dll
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\refint\Salario.dll
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\Salario.pdb
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\Salario.genruntimeconfig.cache
+C:\Priscila\Udemy\Salario\Salario\obj\Debug\net8.0\ref\Salario.dll

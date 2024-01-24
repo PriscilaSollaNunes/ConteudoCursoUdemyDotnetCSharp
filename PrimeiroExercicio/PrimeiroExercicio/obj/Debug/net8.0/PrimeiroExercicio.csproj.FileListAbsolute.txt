@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net8.0\PrimeiroExercicio.exe
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net8.0\PrimeiroExercicio.deps.json
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net8.0\PrimeiroExercicio.runtimeconfig.json
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net8.0\PrimeiroExercicio.dll
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net8.0\PrimeiroExercicio.pdb
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\PrimeiroExercicio.AssemblyInfo.cs
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\PrimeiroExercicio.dll
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\refint\PrimeiroExercicio.dll
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\PrimeiroExercicio.pdb
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\PrimeiroExercicio.genruntimeconfig.cache
+C:\Priscila\Udemy\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net8.0\ref\PrimeiroExercicio.dll

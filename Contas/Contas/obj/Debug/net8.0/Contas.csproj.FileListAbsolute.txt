@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\Contas\Contas\bin\Debug\net8.0\Contas.exe
+C:\Priscila\Udemy\Contas\Contas\bin\Debug\net8.0\Contas.deps.json
+C:\Priscila\Udemy\Contas\Contas\bin\Debug\net8.0\Contas.runtimeconfig.json
+C:\Priscila\Udemy\Contas\Contas\bin\Debug\net8.0\Contas.dll
+C:\Priscila\Udemy\Contas\Contas\bin\Debug\net8.0\Contas.pdb
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\Contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\Contas.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\Contas.AssemblyInfo.cs
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\Contas.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\Contas.dll
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\refint\Contas.dll
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\Contas.pdb
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\Contas.genruntimeconfig.cache
+C:\Priscila\Udemy\Contas\Contas\obj\Debug\net8.0\ref\Contas.dll

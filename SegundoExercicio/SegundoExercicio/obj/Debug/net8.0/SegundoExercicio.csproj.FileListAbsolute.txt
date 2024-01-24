@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.exe
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.deps.json
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.runtimeconfig.json
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.dll
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.pdb
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.AssemblyInfo.cs
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.dll
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\refint\SegundoExercicio.dll
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.pdb
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.genruntimeconfig.cache
+C:\Priscila\Udemy\SegundoExercicio\SegundoExercicio\obj\Debug\net8.0\ref\SegundoExercicio.dll

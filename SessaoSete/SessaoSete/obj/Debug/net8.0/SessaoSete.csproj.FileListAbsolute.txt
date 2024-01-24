@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\SessaoSete\SessaoSete\bin\Debug\net8.0\SessaoSete.exe
+C:\Priscila\Udemy\SessaoSete\SessaoSete\bin\Debug\net8.0\SessaoSete.deps.json
+C:\Priscila\Udemy\SessaoSete\SessaoSete\bin\Debug\net8.0\SessaoSete.runtimeconfig.json
+C:\Priscila\Udemy\SessaoSete\SessaoSete\bin\Debug\net8.0\SessaoSete.dll
+C:\Priscila\Udemy\SessaoSete\SessaoSete\bin\Debug\net8.0\SessaoSete.pdb
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\SessaoSete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\SessaoSete.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\SessaoSete.AssemblyInfo.cs
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\SessaoSete.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\SessaoSete.dll
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\refint\SessaoSete.dll
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\SessaoSete.pdb
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\SessaoSete.genruntimeconfig.cache
+C:\Priscila\Udemy\SessaoSete\SessaoSete\obj\Debug\net8.0\ref\SessaoSete.dll

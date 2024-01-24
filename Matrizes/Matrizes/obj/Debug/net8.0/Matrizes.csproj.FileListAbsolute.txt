@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.exe
+C:\Priscila\Udemy\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.deps.json
+C:\Priscila\Udemy\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.runtimeconfig.json
+C:\Priscila\Udemy\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.dll
+C:\Priscila\Udemy\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.pdb
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfo.cs
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.dll
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\refint\Matrizes.dll
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.pdb
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.genruntimeconfig.cache
+C:\Priscila\Udemy\Matrizes\Matrizes\obj\Debug\net8.0\ref\Matrizes.dll

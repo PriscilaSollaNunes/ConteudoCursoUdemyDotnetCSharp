@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\SesaoSeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\SesaoSeis.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\SesaoSeis.AssemblyInfo.cs
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\SesaoSeis.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\bin\Debug\net8.0\SesaoSeis.exe
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\bin\Debug\net8.0\SesaoSeis.deps.json
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\bin\Debug\net8.0\SesaoSeis.runtimeconfig.json
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\bin\Debug\net8.0\SesaoSeis.dll
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\bin\Debug\net8.0\SesaoSeis.pdb
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\SesaoSeis.dll
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\refint\SesaoSeis.dll
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\SesaoSeis.pdb
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\SesaoSeis.genruntimeconfig.cache
+C:\Priscila\Udemy\SesaoSeis\SesaoSeis\obj\Debug\net8.0\ref\SesaoSeis.dll

@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\TerceiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\TerceiroExercicio.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\TerceiroExercicio.AssemblyInfo.cs
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\TerceiroExercicio.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\bin\Debug\net8.0\TerceiroExercicio.exe
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\bin\Debug\net8.0\TerceiroExercicio.deps.json
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\bin\Debug\net8.0\TerceiroExercicio.runtimeconfig.json
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\bin\Debug\net8.0\TerceiroExercicio.dll
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\bin\Debug\net8.0\TerceiroExercicio.pdb
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\TerceiroExercicio.dll
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\refint\TerceiroExercicio.dll
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\TerceiroExercicio.pdb
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\TerceiroExercicio.genruntimeconfig.cache
+C:\Priscila\Udemy\TerceiroExercicio\TerceiroExercicio\obj\Debug\net8.0\ref\TerceiroExercicio.dll

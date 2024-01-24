@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\Quartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\Quartos.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\Quartos.AssemblyInfo.cs
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\Quartos.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\Quartos\Quartos\bin\Debug\net8.0\Quartos.exe
+C:\Priscila\Udemy\Quartos\Quartos\bin\Debug\net8.0\Quartos.deps.json
+C:\Priscila\Udemy\Quartos\Quartos\bin\Debug\net8.0\Quartos.runtimeconfig.json
+C:\Priscila\Udemy\Quartos\Quartos\bin\Debug\net8.0\Quartos.dll
+C:\Priscila\Udemy\Quartos\Quartos\bin\Debug\net8.0\Quartos.pdb
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\Quartos.dll
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\refint\Quartos.dll
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\Quartos.pdb
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\Quartos.genruntimeconfig.cache
+C:\Priscila\Udemy\Quartos\Quartos\obj\Debug\net8.0\ref\Quartos.dll

@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ExercicioConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ExercicioConta.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ExercicioConta.AssemblyInfo.cs
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ExercicioConta.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\bin\Debug\net8.0\ExercicioConta.exe
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\bin\Debug\net8.0\ExercicioConta.deps.json
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\bin\Debug\net8.0\ExercicioConta.runtimeconfig.json
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\bin\Debug\net8.0\ExercicioConta.dll
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\bin\Debug\net8.0\ExercicioConta.pdb
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ExercicioConta.dll
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\refint\ExercicioConta.dll
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ExercicioConta.pdb
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ExercicioConta.genruntimeconfig.cache
+C:\Priscila\Udemy\ExercicioConta\ExercicioConta\obj\Debug\net8.0\ref\ExercicioConta.dll

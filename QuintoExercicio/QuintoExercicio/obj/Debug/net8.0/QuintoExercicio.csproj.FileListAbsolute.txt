@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\bin\Debug\net8.0\QuintoExercicio.exe
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\bin\Debug\net8.0\QuintoExercicio.deps.json
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\bin\Debug\net8.0\QuintoExercicio.runtimeconfig.json
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\bin\Debug\net8.0\QuintoExercicio.dll
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\bin\Debug\net8.0\QuintoExercicio.pdb
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\QuintoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\QuintoExercicio.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\QuintoExercicio.AssemblyInfo.cs
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\QuintoExercicio.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\QuintoExercicio.dll
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\refint\QuintoExercicio.dll
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\QuintoExercicio.pdb
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\QuintoExercicio.genruntimeconfig.cache
+C:\Priscila\Udemy\QuintoExercicio\QuintoExercicio\obj\Debug\net8.0\ref\QuintoExercicio.dll

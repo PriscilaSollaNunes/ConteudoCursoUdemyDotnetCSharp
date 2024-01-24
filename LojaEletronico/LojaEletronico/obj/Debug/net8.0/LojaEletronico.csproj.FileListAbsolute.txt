@@ -1,0 +1,14 @@
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\bin\Debug\net8.0\LojaEletronico.exe
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\bin\Debug\net8.0\LojaEletronico.deps.json
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\bin\Debug\net8.0\LojaEletronico.runtimeconfig.json
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\bin\Debug\net8.0\LojaEletronico.dll
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\bin\Debug\net8.0\LojaEletronico.pdb
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\LojaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\LojaEletronico.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\LojaEletronico.AssemblyInfo.cs
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\LojaEletronico.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\LojaEletronico.dll
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\refint\LojaEletronico.dll
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\LojaEletronico.pdb
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\LojaEletronico.genruntimeconfig.cache
+C:\Priscila\Udemy\LojaEletronico\LojaEletronico\obj\Debug\net8.0\ref\LojaEletronico.dll
