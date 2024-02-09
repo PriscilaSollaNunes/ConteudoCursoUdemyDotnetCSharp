@@ -1,0 +1,15 @@
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.AssemblyInfo.cs
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.sourcelink.json
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\bin\Debug\net8.0\ValorPagamento.exe
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\bin\Debug\net8.0\ValorPagamento.deps.json
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\bin\Debug\net8.0\ValorPagamento.runtimeconfig.json
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\bin\Debug\net8.0\ValorPagamento.dll
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\bin\Debug\net8.0\ValorPagamento.pdb
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.dll
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\refint\ValorPagamento.dll
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.pdb
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ValorPagamento.genruntimeconfig.cache
+C:\Priscila\Udemy\ValorPagamento\ValorPagamento\obj\Debug\net8.0\ref\ValorPagamento.dll

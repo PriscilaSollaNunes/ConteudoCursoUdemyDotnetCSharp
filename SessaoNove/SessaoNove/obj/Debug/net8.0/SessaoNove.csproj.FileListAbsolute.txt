@@ -1,0 +1,15 @@
+C:\Priscila\Udemy\SessaoNove\SessaoNove\bin\Debug\net8.0\SessaoNove.exe
+C:\Priscila\Udemy\SessaoNove\SessaoNove\bin\Debug\net8.0\SessaoNove.deps.json
+C:\Priscila\Udemy\SessaoNove\SessaoNove\bin\Debug\net8.0\SessaoNove.runtimeconfig.json
+C:\Priscila\Udemy\SessaoNove\SessaoNove\bin\Debug\net8.0\SessaoNove.dll
+C:\Priscila\Udemy\SessaoNove\SessaoNove\bin\Debug\net8.0\SessaoNove.pdb
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.AssemblyInfo.cs
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.sourcelink.json
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.dll
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\refint\SessaoNove.dll
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.pdb
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\SessaoNove.genruntimeconfig.cache
+C:\Priscila\Udemy\SessaoNove\SessaoNove\obj\Debug\net8.0\ref\SessaoNove.dll

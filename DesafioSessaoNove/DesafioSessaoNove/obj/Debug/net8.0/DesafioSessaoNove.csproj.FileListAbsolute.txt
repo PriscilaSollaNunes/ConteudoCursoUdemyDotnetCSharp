@@ -1,0 +1,15 @@
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\bin\Debug\net8.0\DesafioSessaoNove.exe
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\bin\Debug\net8.0\DesafioSessaoNove.deps.json
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\bin\Debug\net8.0\DesafioSessaoNove.runtimeconfig.json
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\bin\Debug\net8.0\DesafioSessaoNove.dll
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\bin\Debug\net8.0\DesafioSessaoNove.pdb
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.AssemblyInfoInputs.cache
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.AssemblyInfo.cs
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.csproj.CoreCompileInputs.cache
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.sourcelink.json
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.dll
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\refint\DesafioSessaoNove.dll
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.pdb
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\DesafioSessaoNove.genruntimeconfig.cache
+C:\Priscila\Udemy\DesafioSessaoNove\DesafioSessaoNove\obj\Debug\net8.0\ref\DesafioSessaoNove.dll
